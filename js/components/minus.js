@@ -1,4 +1,3 @@
-const minus = (a, b) => {
-    return a - b
-}
-export default minus;
+const minus = (a, b) => a - b;
+
+export { minus };

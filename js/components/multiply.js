@@ -1,4 +1,5 @@
-const multyply = (a, b) => {
-    return a * b
+const multiply = (a, b) => {
+    return a * b;
 }
-export {multyply};
+
+export { multiply };

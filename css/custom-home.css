@@ -1,40 +1,24 @@
 /* init */
-    @import "./css/reset.css";
-    @import "./css/variables.css";
-    @import "./css/layout.css";       
+@import "./init/layout.css";
+@import "./init/variables.css";
+@import "./init/reset.css";
 
 /* 3rd party */
-    @import "./css/fontawesome.css";
+@import "./3rd-party/fontawesome.css";
+
 /* components */
-    @import "./css/clock.css";
-    @import "./css/form.css";
-    @import "./css/mouse.css";
-    @import "./css/progress-bar.css";
-/* custom */
-    @import "./css/custom-home.css";
-    
+@import "./components/clock.css";
+@import "./components/form.css";
+@import "./components/mouse.css";
+@import "./components/progress-bar.css";
 
+/* CUSTOM STYLE BY SECTIONS: */
 
+/* hero start */
+/* hero end */
 
+/* main content start */
+/* main content end*/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* footer start */
+/* footer end */

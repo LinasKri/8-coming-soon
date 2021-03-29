@@ -1,4 +1,5 @@
-const devide = (a, b) => {
-    return a / b
+const devide = function (a, b) {
+    return a / b;
 }
-export default devide;
+
+export { devide };

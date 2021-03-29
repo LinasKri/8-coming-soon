@@ -1,7 +1,7 @@
 {
-  "name": "8-coming-soon",
+  "name": "8-coming-soon-demo-ex",
   "version": "1.0.0",
-  "description": "",
+  "description": "informacijos įtvirtinimui",
   "main": "index.js",
   "scripts": {
     "dev": "live-server --port=5500",
