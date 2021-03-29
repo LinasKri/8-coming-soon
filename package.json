@@ -1,7 +1,7 @@
 {
   "name": "8-coming-soon",
   "version": "1.0.0",
-  "description": "informacijos įtvirtinimui",
+  "description": "klasės darbas",
   "main": "index.js",
   "scripts": {
     "dev": "live-server --port=5500",
